@@ -1,69 +1,71 @@
 url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+baseurl: 
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: DeepHackLab
+email: info@deephack.me
+description: "DeepHackLab landing page"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary: fed136
   secondary: fec503  
-  secondary-dark: 333
+  secondary-dark: 0206e5
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Михаил Бурцев
   pic: 1
-  position: Lead Designer
+  position: Директор
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+    - title: vk
+      url: https://vk.com/id1480542
 
-- name: Larry Parker
+    - title: facebook
+      url: https://www.facebook.com/mikhail.burtsev
+
+    - title: envelope-o
+      url: burtsev.m@gmail.com
+
+- name: Владислав Беляев
   pic: 2
-  position: Lead Marketer
+  position: Исполнительный директор
   social:
-    - title: twitter
-      url: #
+    - title: vk
+      url: https://vk.com/id213726335
+
     - title: facebook
-      url: #
+      url: https://www.facebook.com/profile.php?id=100008142015047
+
     - title: linkedin
-      url: #
+      url: http://ru.linkedin.com/in/vlbelyaev
+    
 
-- name: Diana Petersen
+- name: Евгений Ботовинский
   pic: 3
-  position: Lead Developer
+  position: Старший разработчик
   social:
-    - title: twitter
-      url: #
     - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+      url: https://www.facebook.com/profile.php?id=100009782853581
+    
 
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+# Social networks usernames possible for furthest improve
+# social:
+#   - title: twitter
+#     url: http://twitter.com/jekyllrb
+#   - title: facebook
+#     url:
+#   - title: stack-overflow
+#     url: http://stackoverflow.com/questions/tagged/jekyll
+#   - title: bitbucket 
+#     url: http://bitbucket.org/jekyll
+#   - title: github
+#     url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
-address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+# address:
+#   - line: 3481 Melrose Place
+#   - line: Beverly Hills, CA 90210
 
 # Build settings
 markdown: kramdown
