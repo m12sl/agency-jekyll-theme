@@ -16,7 +16,7 @@ color:
 people:
 - name: Михаил Бурцев
   pic: 1
-  position: Директор
+  position: Директор по исследованиям
   social:
     - title: vk
       url: https://vk.com/id1480542
@@ -29,7 +29,7 @@ people:
 
 - name: Владислав Беляев
   pic: 2
-  position: Исполнительный директор
+  position: Генеральный директор
   social:
     - title: vk
       url: https://vk.com/id213726335
@@ -43,7 +43,7 @@ people:
 
 - name: Евгений Ботовинский
   pic: 3
-  position: Старший разработчик
+  position: Технический директор
   social:
     - title: facebook
       url: https://www.facebook.com/profile.php?id=100009782853581
